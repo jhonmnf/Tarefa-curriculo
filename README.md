@@ -9,7 +9,7 @@ Clone o repositório e abra `curriculo/Curriculo.html` em um navegador.
 ## Estrutura
 
 - `curriculo/Curriculo.html`: conteúdo da página.
-- `curriculo/Style.css`: folha de estilos.
+- `curriculo/style.css`: folha de estilos.
 
 ## Status
 
